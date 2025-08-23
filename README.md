@@ -1,7 +1,8 @@
 # App Deployment Blueprint
-# this is just tempory - ongoing second app i will fully 100% complete this documentation.
-## Part 1: RevenueCat Setup & Integration
 
+# this is just tempory - ongoing second app i will fully 100% step by step complete this documentation.
+
+## Part 1: RevenueCat Setup & Integration. 
 ### 1.1 RevenueCat Dashboard Configuration
 
 1. **Create RevenueCat Project**
